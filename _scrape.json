@@ -1,0 +1,321 @@
+{
+  "name": "Elite Garage Door Company LLC",
+  "legal_name": "Elite Garage Door Co LLC",
+  "name_variants": [
+    "Elite Garage Door Co LLC",
+    "Elite Garage Door Co. LLC",
+    "Elite Garage Door Company LLC",
+    "Elite Garage Door",
+    "Elite Garage Doors"
+  ],
+  "slug": "elite-garage-door-company",
+  "source": "web-search",
+  "source_type": "brand-only",
+  "sheet": {
+    "url": "https://docs.google.com/spreadsheets/d/16dC4jVhQlYknTeo4EXs8E5vl95GkiwtpzwW--pviR7k/edit?gid=0#gid=0",
+    "row": 15,
+    "old_site": "https://www.clopaydoor.com/dealers/garage-doors-slidell-la-elite",
+    "old_site_status": "404 at scrape time — not a live company site",
+    "ai_homepage": null
+  },
+  "source_pages": [
+    "https://elitegaragedoorco.localsearch.com/",
+    "https://www.yellowpages.com/slidell-la/mip/elite-garage-door-co-llc-19008906",
+    "https://www.mapquest.com/us/louisiana/elite-garage-door-co-llc-351288346",
+    "https://listings.allpages.com/la-A3H0818818-slidell.html",
+    "https://pro.porch.com/slidell-la/garage-door-specialists/elite-garage-door-co-llc-1/pp",
+    "https://us.nextdoor.com/pages/elite-garage-door-co-slidell-la/",
+    "https://garage-doors-opener-stores.cmac.ws/elite-garage-door-co-llc/20979/",
+    "https://www.clopaydoor.com/dealers/garage-doors-slidell-la-elite"
+  ],
+  "logo": "generated",
+  "logo_source": "projects/elite-garage-door-company/logo.png",
+  "logo_note": "No official mark exists. Generated industrial symbol (sectional door + track + torsion spring). Not their official brand. Do not write DESIGN.md or HTML until the user approves. Sample hex only after approval.",
+  "brand_colors": null,
+  "photos": "mixed",
+  "photos_note": "User pack v3: install.jpg → assets/hero.jpg (residential door). springs.jpg and door.jpg used as section stills. Pack hero.jpg (pool house) and house.jpg (no door) unused — off-niche.",
+  "phone": "+19856399748",
+  "phone_display": "(985) 639-9748",
+  "phone_note": "Lead with (985) 639-9748 — Yellow Pages, MapQuest, AllPages, CMac, and a Nextdoor neighbor rec all publish it. Localsearch currently displays 985-261-2437 on a live fetch. Do not collapse the two into one invented main number.",
+  "phones": {
+    "directory_primary": {
+      "display": "(985) 639-9748",
+      "e164": "+19856399748",
+      "source": "Yellow Pages, MapQuest, AllPages, CMac, Nextdoor neighbor recommendation"
+    },
+    "localsearch_current": {
+      "display": "(985) 261-2437",
+      "e164": "+19852612437",
+      "source": "https://elitegaragedoorco.localsearch.com/ live fetch this run; also Localmint. Same localsearch URL is indexed elsewhere as 639-9748."
+    }
+  },
+  "email": null,
+  "emails_off_site": [
+    {
+      "email": "dawnwalker3279@yahoo.com",
+      "source": "https://elitegaragedoorco.localsearch.com/"
+    }
+  ],
+  "address": {
+    "street": "657 Whitney Dr",
+    "city": "Slidell",
+    "region": "LA",
+    "postal_code": "70461",
+    "country": "US",
+    "published_as": "657 Whitney Dr, Slidell, LA 70461",
+    "note": "MapQuest appends unit letter Y (657 Whitney Dr, Y). AllPages uses 657 Whitney Drive, 70461-4185. Lead with 657 Whitney Dr, Slidell, LA 70461. Directory-only — treat as published NAP, not a confirmed walk-in showroom."
+  },
+  "locations": [
+    {
+      "label": "Slidell",
+      "street": "657 Whitney Dr",
+      "city": "Slidell",
+      "region": "LA",
+      "postal_code": "70461",
+      "source": "localsearch, Yellow Pages, MapQuest, AllPages, Porch, Nextdoor"
+    }
+  ],
+  "gbp": {
+    "name": "Elite Garage Door Co LLC",
+    "category": "Garage door service",
+    "phone": "(985) 639-9748",
+    "address": "657 Whitney Dr, Slidell, LA 70461",
+    "place_id": null,
+    "maps_url": null,
+    "ratingValue": null,
+    "reviewCount": null,
+    "hours": null,
+    "geo": {
+      "lat": 30.292532,
+      "lng": -89.723765,
+      "source": "Nextdoor business page — not a Google Place ID"
+    },
+    "source": "No Google Place ID locked this run. Do not print a Google rating or review count."
+  },
+  "bbb": null,
+  "owner": "Glenn / Glen Walker",
+  "owners": ["Glenn Walker", "Glen Walker"],
+  "owner_note": "AllPages lists Glen Walker as owner. Customer reviews on localsearch and Porch say Glenn / Mr. Glenn. Nextdoor neighbor copy: “Glen elite garage doors”. Do not invent a legal first-name spelling.",
+  "founded": null,
+  "founded_directory_only": {
+    "year": "2011",
+    "source": "https://garage-doors-opener-stores.cmac.ws/elite-garage-door-co-llc/20979/ — not confirmed on an owned page"
+  },
+  "size_claims": {
+    "note": "AllPages directory ranges only. Do not print on a homepage.",
+    "employees": "1-4",
+    "sales_volume": "500K - 1M",
+    "source": "https://listings.allpages.com/la-A3H0818818-slidell.html"
+  },
+  "service_areas": ["Slidell"],
+  "service_areas_note": "Only Slidell is published with this NAP. Do not invent Northshore cities (Mandeville, Covington, Pearl River, Lacombe) or New Orleans metro.",
+  "services": [
+    {
+      "name": "Residential garage doors",
+      "source": "localsearch services list and about line"
+    },
+    {
+      "name": "Garage door sales",
+      "source": "localsearch; AllPages Sales - Installation - Service"
+    },
+    {
+      "name": "Broken springs",
+      "source": "localsearch (listed multiple times); about line"
+    },
+    {
+      "name": "Garage door openers / operators",
+      "source": "localsearch; AllPages"
+    },
+    {
+      "name": "Overhead doors / all types of overhead doors",
+      "source": "localsearch"
+    },
+    {
+      "name": "Frames",
+      "source": "localsearch live fetch this run"
+    },
+    {
+      "name": "Estimates / free estimates",
+      "source": "localsearch about line: FREE ESTIMATES"
+    },
+    {
+      "name": "Repair all brands",
+      "source": "localsearch about line: WE REPAIR ALL BRANDS!!!; AllPages"
+    },
+    {
+      "name": "Certified doors",
+      "source": "localsearch services list — wording only; no certifying body named"
+    },
+    {
+      "name": "Garage door installation",
+      "source": "Porch services; AllPages; Nextdoor story"
+    },
+    {
+      "name": "Garage door repair",
+      "source": "Porch services; AllPages Maintenance"
+    },
+    {
+      "name": "Garage door opener installation",
+      "source": "Porch services"
+    },
+    {
+      "name": "Garage door opener repair",
+      "source": "Porch services"
+    },
+    {
+      "name": "Garage door spring repair",
+      "source": "Porch services"
+    }
+  ],
+  "features": [
+    "We repair all brands",
+    "Free estimates"
+  ],
+  "brands": [
+    {
+      "name": "LiftMaster",
+      "source": "AllPages only — listed as Liftmaster. Not on localsearch. Do not expand into a brand wall."
+    }
+  ],
+  "payments": {
+    "cards": ["Discover", "Mastercard", "Visa"],
+    "source": "MapQuest features; CMac forms of payment"
+  },
+  "credentials_directory_only": [
+    {
+      "name": "Licensed & Insured",
+      "source": "AllPages Payment Mode / Certifications fields — not on an owned page"
+    }
+  ],
+  "positioning": "Residential garage door shop in Slidell. Sales, install, springs, openers, and repair on all brands. Free estimates. Owner Glenn / Glen Walker.",
+  "brand_copy": {
+    "directory_about": "RESIDENTIAL DOORS GARAGE DOOR OPENERS BROKEN SPRINGS WE REPAIR ALL BRANDS!!! FREE ESTIMATES",
+    "nextdoor_story": "Elite Garage Door Co LLC specializes in residential garage door services, including installation, repair, and maintenance of all brands, with free estimates available.",
+    "porch_about": "Elite Garage Door Co is a garage door specialist based in Slidell. They provide garage door installation, garage door repair, garage door opener installation and other services."
+  },
+  "reviews": [
+    {
+      "quote": "Highly recommended, beautiful work. Mr. Glenn and his crew did a great job.. I love my garage door.",
+      "attribution": "Isupply.slidell@gmail.com I.",
+      "source": "https://elitegaragedoorco.localsearch.com/"
+    },
+    {
+      "quote": "Glenn came out gave me a quote. The spring needed replaced. He said they would be out the next day to replace. They showed up and not only replaced, but serviced everything. 20 minutes Done!! And it was less than what Glenn quoted. Awesome company. Very professional. Would highly recommend this company!",
+      "attribution": "Kimberly P.",
+      "source": "https://elitegaragedoorco.localsearch.com/"
+    },
+    {
+      "quote": "Awesome service. Glenn personally delivered a repair part to my home and gave my the advice I needed to make a repair myself! Highly recommend Glenn and his company!!!",
+      "attribution": "Jay J.",
+      "source": "https://elitegaragedoorco.localsearch.com/"
+    },
+    {
+      "quote": "Thank you Glenn for your immediate response and for a great quality door.",
+      "attribution": "Donna T.",
+      "date": "2018-01-22",
+      "source": "https://pro.porch.com/slidell-la/garage-door-specialists/elite-garage-door-co-llc-1/pp"
+    },
+    {
+      "quote": "For you garage door I recommend Elite Garage Door. Does great work and is reasonable on price. I have uses him for many years. 985-639-9748.",
+      "attribution": "S. F., Slidell",
+      "source": "https://us.nextdoor.com/pages/elite-garage-door-co-slidell-la/"
+    },
+    {
+      "quote": "Huge kudos to Elite Garage Doors!! I broke my garage door 3 months ago and have been struggling to get my lawnmower in and out and toting groceries into the house. Elite came out exactly when...",
+      "attribution": "Karen B.",
+      "truncated": true,
+      "source": "MapQuest listing (Yelp via MapQuest)"
+    },
+    {
+      "quote": "We had a great experience with Elite. It's been so hard to find reliable vendors, but these guys were great. They showed up when they said they would and on time. We were all ready to get a new...",
+      "attribution": "Debbi O.",
+      "truncated": true,
+      "source": "MapQuest listing (Yelp via MapQuest)"
+    },
+    {
+      "quote": "The wire rope came unwound from the spool on one side of the door after accidently hitting an object while closing. Elite came out on short order and leveled, reset and lubricated the the door...",
+      "attribution": "Dan C.",
+      "truncated": true,
+      "source": "MapQuest listing (Yelp via MapQuest)"
+    }
+  ],
+  "reviews_note": "No owned-site review widget. Localsearch quotes are the only full attributed texts. Porch lists 5.0 / 25 — directory score, not a locked Google count. MapQuest Yelp snippets are truncated; do not invent the rest. Yellow Pages has additional unattributed blurbs — omitted.",
+  "social": {
+    "nextdoor": "https://us.nextdoor.com/pages/elite-garage-door-co-slidell-la/",
+    "facebook": null,
+    "instagram": null
+  },
+  "hours": null,
+  "clopay": {
+    "sheet_url": "https://www.clopaydoor.com/dealers/garage-doors-slidell-la-elite",
+    "status": "404",
+    "note": "Sheet listed them as a Clopay dealer page. That URL is dead. The live Clopay Slidell dealer is Superior Door LLC — a different company. Do not call Elite a Clopay dealer from the sheet URL."
+  },
+  "do_not_mix": [
+    {
+      "name": "elitegaragedoor.com",
+      "note": "Minnesota Elite Garage Door — different business"
+    },
+    {
+      "name": "Elite Garage Door Baton Rouge",
+      "url": "https://elitegaragedoorbatonrouge.com",
+      "note": "Different company"
+    },
+    {
+      "name": "Elite Garage Doors & Gates",
+      "note": "Arizona — different company"
+    },
+    {
+      "name": "Elite Overhead",
+      "note": "Buford, GA — different company"
+    },
+    {
+      "name": "Elite Garage Door Solutions LLC",
+      "note": "Orlando / Thumbtack — different company"
+    },
+    {
+      "name": "facebook.com/EliteGarageDoorNC",
+      "note": "Yellow Pages social link is North Carolina — do not use"
+    },
+    {
+      "name": "facebook.com/elitegduk",
+      "note": "Unrelated Elite Garage Door UK Facebook — do not use"
+    },
+    {
+      "name": "Superior Door LLC",
+      "note": "Current Clopay dealer for Slidell — not this prospect"
+    },
+    {
+      "name": "Elite Handyman Slidell",
+      "note": "Different trade"
+    }
+  ],
+  "omitted": {
+    "website": "No owned site. Sheet Clopay dealer URL is 404. Localsearch is a Yellow Pages syndicate page, not their brand site. elitegaragedoor.com is Minnesota.",
+    "logo": "none found",
+    "hours": "Not on an owned page. CMac and Nextdoor list Mon–Fri 8:00 AM–5:00 PM, Sat–Sun closed. MapQuest says Closed until 8 am. Do not print directory hours as theirs.",
+    "email": "dawnwalker3279@yahoo.com is localsearch only — omit from homepage until they confirm",
+    "gbp_place_id": "not locked this run",
+    "review_count": "Porch 5.0 / 25 is a directory score. No Google count.",
+    "founded": "2011 appears on CMac only",
+    "headcount_sales": "AllPages 1–4 employees / $500K–$1M — unverified",
+    "clopay_dealer": "sheet URL 404; live Clopay Slidell dealer is Superior Door LLC",
+    "senior_discounts": "Nextdoor aggregator blurb only — not their own copy",
+    "phone_9852385145": "Appeared in a Nextdoor scrape snippet as +19852385145 — not confirmed on any listing used this run",
+    "yelp_full_text": "Karen B. / Debbi O. / Dan C. quotes are truncated on MapQuest; Yelp page fetch was empty"
+  },
+  "old_site": {
+    "stack": "none — no owned website",
+    "proxy_page": "https://elitegaragedoorco.localsearch.com/",
+    "problems": [
+      "Sheet URL is a dead Clopay dealer page (404), not a company homepage",
+      "Only web presence is a localsearch / Yellow Pages landing page",
+      "Two published phones (639-9748 vs 261-2437) on overlapping directories",
+      "No logo, no photos, no hours on an owned page",
+      "About copy is one all-caps directory tagline",
+      "Easy to mix with other Elite garage-door companies (MN, BR, AZ, GA, FL, NC)"
+    ],
+    "title": "Doors, Frames, & Accessories / Garages-Building & Repairing (localsearch)"
+  },
+  "keyword": "garage door repair in Slidell"
+}

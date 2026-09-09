@@ -79,7 +79,7 @@ Big Shoulders Display for H1/H2/H3 — condensed poster, **negative tracking**. 
 - Photography: hero door still + springs still + repair still. Pack-sourced. `"photos": "mixed"`.
 - Section rhythm: ink / paper / ink / paper. Padding ~88px desktop, ~56px mobile. No drawn brass rules.
 - Card model: 2×2 photo-rail slabs — 168px cover still left, copy right.
-- IA: Header → Hero → Trust → Services → About → Gallery → CTA → Areas → FAQ → Contact → Footer. Reviews use only scrape quotes.
+- IA: Header → Hero → Trust → Services → About → Gallery → CTA → Areas → Reviews → FAQ → Contact → Footer. Reviews use only scrape quotes.
 
 ## Elevation & Depth
 
@@ -91,7 +91,9 @@ Quiet grain wash on paper bands. Ticket has a 4px rust top edge. Cards: paper fi
 
 ## Components
 
-Header: mark + wordmark + call. Hero facts: H1 keyword, lede, two CTAs, ticket with phone. Service card: photo-rail. Review: featured ink quote + stack. Form: does not send. Footer + mobile call dock.
+Header: mark + wordmark + call. Hero facts: H1 keyword, lede, two CTAs (Call + Request Estimate), ticket with phone. Service card: photo-rail. Review: Trustindex-style 3-up card grid (header + **Write a review** + equal cards + carousel), scrape quotes only, no Google rating or review count. Write a review opens Nextdoor. Form: **Submit** (`type="submit"`), confirms on-page, does not send. Footer + mobile call dock.
+
+CTA lock (do not revert): Call = shop line; Request Estimate = `#contact`; form button = Submit; reviews header = Write a review.
 
 ## Do's and Don'ts
 

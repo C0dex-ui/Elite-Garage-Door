@@ -22,20 +22,30 @@ Garage Door Repair in Slidell
 
 Elite Garage Door is a residential shop in Slidell. We repair, replace, and install garage doors and openers, including broken springs. We repair all brands. Free estimates. Call (985) 639-9748.
 
-## CTAs
+## CTAs (locked — do not revert)
 
-- Call (985) 639-9748
-- Free Estimate
+Three labels only. Put each in the spots below. Do not turn estimate-path buttons back into Call. Do not relabel the form Submit as Request Estimate. Do not relabel Write a review as Request Estimate.
+
+- **Call (985) 639-9748** — hero primary, mid-page “Door stuck.” band, contact right rail, nav phone, booking-ticket number, footer, mobile dock. All `tel:+19856399748`.
+- **Request Estimate** — hero secondary, gallery “The opening has to work.”, work-card text links. All `#contact`.
+- **Submit** — estimate form only. `<button type="submit">`. Name + phone required. preventDefault, hide fields, on-page confirmation. No email backend. Do not use `dawnwalker3279@yahoo.com`.
+- **Write a review** — reviews widget header only. Opens the Nextdoor page (`https://us.nextdoor.com/pages/elite-garage-door-co-slidell-la/`). Not Google (no Place ID).
 
 ## IA / section labels
 
-Header → Hero → Trust → Services → About → Gallery → CTA → Areas → FAQ → Contact → Footer
+Header → Hero → Trust → Services → About → Gallery → CTA → Areas → Reviews → FAQ → Contact → Footer
 
-Skip a reviews block.
+## Reviews (locked — Trustindex format)
+
+Header bar + 3 equal cards + stacked-avatar summary + initials + stars + clamped quote + Read more + left/right arrows. Mobile: one card at a time.
+
+Quotes allowed: Kimberly P., Jay J., Isupply.slidell@gmail.com I., Donna T. (22 Jan 2018 · Porch), S. F., Slidell.
+
+Do not invent a Google rating, a review count, “verified by Trustindex”, or truncated Yelp snippets (Karen B., Debbi O., Dan C.).
 
 ## Header
 
-Elite Garage Door · (985) 639-9748 · Free Estimate
+Elite Garage Door · (985) 639-9748 · Request Estimate
 
 ## Trust chips
 
